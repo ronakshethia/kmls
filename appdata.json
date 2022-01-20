@@ -1,4 +1,1 @@
-{
-    "data" : "data from page 1",
-    "pagesequence" : "second, third"
-}
+'{ "name": "Pizza da Mario", "sequence": "firstpage,secondpage" }'
